@@ -7,7 +7,7 @@ from uuid import uuid4
 from .exceptions import BigoneAPIException, BigoneRequestException
 
 
-class BigOneClient(object):
+class BigOneDog(object):
 
     API_URL = 'https://api.big.one'
 
